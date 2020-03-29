@@ -1,5 +1,7 @@
 # nyc-gentrification
+
 This project is to understand the  effects  gentrification has on crime rates throughout New York City on. Over the recent years New York City has experienced a huge influx of gentrification. Specifically, in areas throughout Brooklyn and Queens.  . I was able to pull a large database of every shooting in and arrests in NYC from nyc.go. This data ranges from 2006 to 2018, the range was perfect to picture the growth of the effects in these areas. 
+
 
 Breaking down the data: 
 To break down the data I had to filter out a lot of information and clean it into what's relevant and what isn't. Now to sorting through the data, there were two datasets we were observing. One was arresting the other one was shootings. The arrests were the largest file to filter through with 4,798,339 reported arrests. The data is provided directly from the NYPD.  I started filtering there using both Queens and Brooklyn as a filter.   I focused on burglary, dangerous drugs and murders. 
