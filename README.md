@@ -5,3 +5,10 @@ This project is to understand the  effects  gentrification has on crime rates th
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+Git clone the repository to your local machine:
+
+HTTPS:
+```
+Give the example
+```
