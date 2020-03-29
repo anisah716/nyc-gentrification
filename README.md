@@ -22,3 +22,9 @@ git@github.com:anisah716/nyc-gentrification.git
 * [Python](https://www.python.org)
 * [Jupyter Notebook](https://jupyter.org)
 * [matplotlib](https://matplotlib.org) - Visualizations 
+
+## Authors
+
+* **Anisah Ahmed**  - [Github](https://github.com/anisah716)
+
+
