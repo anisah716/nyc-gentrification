@@ -12,3 +12,7 @@ HTTPS:
 ```
 https://github.com/anisah716/nyc-gentrification.git
 ```
+SSH:
+```
+https://github.com/anisah716/nyc-gentrification.git
+```
