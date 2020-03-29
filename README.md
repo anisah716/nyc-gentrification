@@ -10,5 +10,5 @@ Git clone the repository to your local machine:
 
 HTTPS:
 ```
-Give the example
+https://github.com/anisah716/nyc-gentrification.git
 ```
