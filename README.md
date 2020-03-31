@@ -22,7 +22,7 @@ git@github.com:anisah716/nyc-gentrification.git
 
 ![Image of Graphs](https://github.com/anisah716/nyc-gentrification/blob/master/image1.png)
 
-![Image of Graph2](https://github.com/anisah716/nyc-gentrification/blob/master/image1.png)
+![Image of Graph2](https://github.com/anisah716/nyc-gentrification/blob/master/image2.png)
 
 ## Built With
 
