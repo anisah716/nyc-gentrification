@@ -19,6 +19,7 @@ git@github.com:anisah716/nyc-gentrification.git
 
 ## Visualizations
 
+
 ![Image of Graphs](https://github.com/anisah716/nyc-gentrification/blob/master/image1.png)
 
 
